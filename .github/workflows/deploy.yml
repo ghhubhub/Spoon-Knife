@@ -29,5 +29,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: your_project_name
+          projectName: actual_project_name  # ここを実際のプロジェクト名に変更
           directory: ./dist
