@@ -1,0 +1,7 @@
+name = "astro-notion-blog"
+type = "javascript"
+
+[build]
+command = "npm run build"
+upload_format = "service-worker"
+upload_dir = "dist"

@@ -1,0 +1,21 @@
+{
+  "name": "astro-notion-blog",
+  "version": "1.0.0",
+  "description": "A blog powered by Notion and Astro",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
