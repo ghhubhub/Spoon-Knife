@@ -1,5 +1,5 @@
 {
-  "name": "Spoon-Knife",
+  "name": "spoon-knife",
   "version": "1.0.0",
   "description": "A blog powered by Notion and Astro",
   "scripts": {
