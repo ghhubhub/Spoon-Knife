@@ -29,5 +29,5 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: spoon-knife # ここを正しいプロジェクト名に変更
+          projectName: spoon-knife
           directory: ./dist
